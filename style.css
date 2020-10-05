@@ -1,0 +1,35 @@
+body
+{
+    color: lavenderblush;
+    background: linear-gradient(to right top, #f19833, #d9259d, #18c1b3, #0aaa3f, #940039);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px; 
+    border-radius: 25px;
+}
+
+#camera
+{
+    border: 2.5px solid black;
+    width: 350px;
+    height: 260px;
+}
+
+.nameOfObjects, #objectName, #objectAccuracy
+{
+    color: black;
+}
+
+#buttonRound
+{
+    border-radius: 25px;
+}
+
+#buttonround
+{
+    border-radius: 25px;
+}
